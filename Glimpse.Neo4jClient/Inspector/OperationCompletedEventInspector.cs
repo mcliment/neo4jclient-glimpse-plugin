@@ -1,8 +1,8 @@
 ﻿using Glimpse.Core.Extensibility;
-using Glimpse.Neo4JClient.Message;
+using Glimpse.Neo4jClient.Message;
 using Neo4jClient;
 
-namespace Glimpse.Neo4JClient.Inspector
+namespace Glimpse.Neo4jClient.Inspector
 {
     public class OperationCompletedEventInspector : IInspector
     {

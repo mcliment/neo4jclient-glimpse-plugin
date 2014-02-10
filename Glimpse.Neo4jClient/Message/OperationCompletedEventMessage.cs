@@ -1,7 +1,7 @@
 ﻿using System;
 using Glimpse.Core.Message;
 
-namespace Glimpse.Neo4JClient.Message
+namespace Glimpse.Neo4jClient.Message
 {
     public class OperationCompletedEventMessage : MessageBase
     {

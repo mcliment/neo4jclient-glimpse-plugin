@@ -1,11 +1,11 @@
 ﻿using System.Linq;
 using Glimpse.Core.Extensibility;
 using Glimpse.Core.Extensions;
-using Glimpse.Neo4JClient.Inspector;
-using Glimpse.Neo4JClient.Message;
+using Glimpse.Neo4jClient.Inspector;
+using Glimpse.Neo4jClient.Message;
 using Neo4jClient;
 
-namespace Glimpse.Neo4JClient
+namespace Glimpse.Neo4jClient
 {
     public class Plugin : TabBase, ITabSetup
     {

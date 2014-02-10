@@ -7,8 +7,8 @@
     <ProjectGuid>{50C410C3-610D-4581-9E68-F70394340D02}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Glimpse.Neo4JClient</RootNamespace>
-    <AssemblyName>Glimpse.Neo4JClient</AssemblyName>
+    <RootNamespace>Glimpse.Neo4jClient</RootNamespace>
+    <AssemblyName>Glimpse.Neo4jClient</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
