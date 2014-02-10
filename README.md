@@ -15,6 +15,11 @@ Reference Glimpse.Neo4jClient.dll in your Glimpse-enabled project (it's automati
 Glimpse.Neo4jClient.Plugin.RegisterGraphClient(yourGraphClientInstance);
 ```
 
+Screenshot
+----------
+
+![Sample screenshot](/screenshots/glimpse-neoj4-1.png "Query details")
+
 Support
 -------
 
