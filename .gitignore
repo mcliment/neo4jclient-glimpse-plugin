@@ -1,0 +1,7 @@
+*.user
+*.suo
+_*
+packages
+[Dd]ebug/
+[Rr]elease/
+*.nupkg
